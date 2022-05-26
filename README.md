@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="DoctorCare" src=".github/preview.jpg" width="100%">
+  <img alt="DoctorCare" src="https://user-images.githubusercontent.com/73675022/170391953-4c0d4e59-0562-489e-b673-444351f8dd8c.jpeg" width="100%">
 </p>
 
 ## 🚀 Technologies
